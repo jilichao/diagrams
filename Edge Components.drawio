@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T02:32:53.328Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" version="17.4.0" etag="aXGNTuP7QCynbwtbJaYE" type="github"><diagram id="zT0z7deW9zbpUbL_V8_a">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-09T03:40:18.720Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="aHCx8TMxuAltmVqK66TL" version="17.4.0" type="github">
+  <diagram id="zT0z7deW9zbpUbL_V8_a" name="Page-1">
+    <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="trmlIRWiQld7et1Ec-D3-26" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#999999;strokeColor=#0066CC;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="274" y="689" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-25" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeColor=#0066CC;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="286" y="140" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-11" value="" style="whiteSpace=wrap;html=1;fontSize=17;dashed=1;strokeWidth=2;strokeColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="294" y="341" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#999999;exitX=0.5;exitY=0.16;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="trmlIRWiQld7et1Ec-D3-1" target="trmlIRWiQld7et1Ec-D3-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="397" y="320" />
+              <mxPoint x="469" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-1" value="MQTT" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=middle;labelPosition=left;verticalLabelPosition=middle;align=right;spacingTop=-6;fontSize=16;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub" vertex="1" parent="1">
+          <mxGeometry x="364" y="381" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-2" value="" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=placeholder" vertex="1" parent="1">
+          <mxGeometry x="501" y="699.88" width="88" height="78.25" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="trmlIRWiQld7et1Ec-D3-3" target="trmlIRWiQld7et1Ec-D3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#999999;exitX=0.5;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="trmlIRWiQld7et1Ec-D3-3" target="trmlIRWiQld7et1Ec-D3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#999999;" edge="1" parent="1" source="trmlIRWiQld7et1Ec-D3-3" target="trmlIRWiQld7et1Ec-D3-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="397" y="600" />
+              <mxPoint x="545" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-3" value="Mapper" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;spacingTop=0;fontSize=17;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=gke_on_prem;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="531" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-7" value="eKuiper" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=16;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_routes" vertex="1" parent="1">
+          <mxGeometry x="531" y="381" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="421" y="420.25" as="sourcePoint" />
+            <mxPoint x="541" y="420.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="541" y="400.25" as="sourcePoint" />
+            <mxPoint x="421" y="400.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-12" value="文龙Edge" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="564" y="591" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-13" value="K8S API" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="346" y="184.25" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_plc;" vertex="1" parent="1">
+          <mxGeometry x="409" y="709.38" width="59.25" height="59.25" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.04;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="trmlIRWiQld7et1Ec-D3-15" target="trmlIRWiQld7et1Ec-D3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-15" value="Controller" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;spacingTop=-6;fontSize=16;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=container_engine;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="179" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-17" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#c0c0c0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="56" y="148.25" width="158" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-20" value="Backend" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_code;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="350" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226" y="210" as="sourcePoint" />
+            <mxPoint x="336" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="136" y="350" as="sourcePoint" />
+            <mxPoint x="136" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trmlIRWiQld7et1Ec-D3-29" value="文龙Cloud" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="566" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
